@@ -1,8 +1,8 @@
 {
-  "name": "prayer_worrier",
+  "name": "prayerworrier",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Nsengiyumva Wilberrforce",
+  "homepage": "https://prayerworrior.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -45,6 +45,7 @@
     "@angular/language-service": "^16.0.0",
     "@capacitor/cli": "5.2.3",
     "@ionic/angular-toolkit": "^9.0.0",
+    "@ionic/lab": "3.2.15",
     "@types/jasmine": "~4.3.0",
     "@types/node": "^12.11.1",
     "@typescript-eslint/eslint-plugin": "5.3.0",
@@ -64,5 +65,5 @@
     "ts-node": "^8.3.0",
     "typescript": "~5.0.2"
   },
-  "description": "An Ionic project"
+  "description": "This Project is intended to help people sharpen their prayer life and help them to be able to pray for others."
 }

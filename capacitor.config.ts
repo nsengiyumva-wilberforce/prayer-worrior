@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'prayer_worrier',
+  appId: 'com.prayerworrior.app',
+  appName: 'prayer Worrior',
   webDir: 'www',
   server: {
     androidScheme: 'https'
