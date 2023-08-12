@@ -1,0 +1,7 @@
+{
+  "name": "prayer_worrier",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
